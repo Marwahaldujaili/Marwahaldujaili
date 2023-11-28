@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **marwah@aldujaili.com**
 
-- Connect with me: <a href="https://www.linkedin.com/in/marwahaldujaili/" target="_blank"><img align="center"
+- Connect with me: <a href="https://www.linkedin.com/in/marwahaldujaili/" target="_blank" rel="noreferrer"><img align="center"
       src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.png"
       alt="adam pithewan" width="60" /></a>
 

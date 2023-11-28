@@ -12,7 +12,7 @@
 - 📫 How to reach me **marwah@aldujaili.com**
 
 - Connect with me: <a href="https://www.linkedin.com/in/marwahaldujaili/" target="_blank"><img align="center"
-      src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.png)"
+      src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.png"
       alt="adam pithewan" height="20" width="20" /></a>
 
 <br>

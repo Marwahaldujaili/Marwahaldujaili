@@ -87,7 +87,7 @@
       </a>
           <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
         <img
-          src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.svgrepo.com%2Fsvg%2F331488%2Fmongodb&psig=AOvVaw2U9ThPj1Bmcv_sDin9E_AU&ust=1701242694124000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCOCerIaV5oIDFQAAAAAdAAAAABAE"
+          src="https://www.svgrepo.com/show/331488/mongodb.svg"
           alt="mongodb"
           width="40"
           height="40"

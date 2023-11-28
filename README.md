@@ -35,7 +35,7 @@
         href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
         target="_blank"
         rel="noreferrer"
-        style="text-decoration: none; margin:5px;"
+        style="text-decoration: none; margin:10px;"
       ><img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
           alt="javascript"

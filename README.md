@@ -1,11 +1,5 @@
-<h1 align="center">Hi 👋, I'm Marwah Al-Dujaili</h1>
-<h3 align="center">Full-stack Web Developer | MERN Stack Developer with 14+ years experience as Technology Trainer 🌟.</h3>
-
-<br>
-
-![](https://komarev.com/ghpvc/?username=marwahaldujaili&color=brightgreen&style=flat)
-
-<br>
+<h1>Hi 👋, I'm Marwah Al-Dujaili</h1>
+<h3>Full-stack Web Developer | MERN Stack Developer with 14+ years experience as Technology Trainer 🌟.</h3>
 
 - 🌱 Recently completed an intensive one-year training program in full-stack developmen
 
@@ -20,13 +14,13 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left"><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+          src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg"
           alt="html5"
           width="40"
           height="40"
           margin="5px"
         /></a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+          src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg"
           alt="css3"
           width="40"
           height="40"
@@ -37,37 +31,37 @@
         rel="noreferrer"
         style="text-decoration: none;"
       ><img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+          src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg"
           alt="javascript"
           width="40"
           height="40"
           margin="5px"
         /></a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer" style="text-decoration: none;"><img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
+          src="https://github.com/tandpfun/skill-icons/raw/main/icons/Sass.svg"
           alt="sass"
           width="40"
           height="40"
           margin="5px"
         /></a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" style="text-decoration: none;"><img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+          src="https://github.com/tandpfun/skill-icons/raw/main/icons/Bootstrap.svg"
           alt="bootstrap"
           width="40"
           height="40"
           margin="5px"
         /></a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+          src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg"
           alt="react"
           width="40"
           height="40"
           margin="5px"
         /></a> <a href="https://nodejs.org" target="_blank" rel="noreferrer" style="text-decoration: none;"><img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+          src="https://github.com/tandpfun/skill-icons/raw/main/icons/NodeJS-Dark.svg"
           alt="nodejs"
-          width="40"
+          width="60"
           height="40"
           margin="15px"
         /></a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img
-          src="https://www.svgrepo.com/show/331488/mongodb.svg"
+          src="https://github.com/tandpfun/skill-icons/raw/main/icons/MongoDB.svg"
           alt="mongodb"
           width="40"
           height="40"
@@ -79,25 +73,25 @@
           height="40"
           margin="15px"
         /></a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img
-          src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png"
+          src="https://github.com/tandpfun/skill-icons/raw/main/icons/Figma-Dark.svg"
           alt="figma"
           width="40"
           height="40"
           margin="5px"
         /></a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img
-          src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg"
+          src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg"
           alt="VScode"
           width="40"
           height="40"
           margin="5px"
         /></a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img
-          src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/2560px-Git-logo.svg.png"
+          src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg"
           alt="Git"
-          width="40"
+          width="60"
           height="40"
           margin="5px"
         /></a> <a href="https://github.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img
-          src="https://cdn-icons-png.flaticon.com/512/25/25231.png"
+          src="https://github.com/tandpfun/skill-icons/raw/main/icons/Github-Dark.svg"
           alt="Github"
           width="40"
           height="40"
@@ -108,12 +102,34 @@
           width="40"
           height="40"
           margin="5px"
+        /></a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img
+          src="https://github.com/tandpfun/skill-icons/raw/main/icons/Linux-Dark.svg"
+          alt="Linux"
+          width="40"
+          height="40"
+          margin="5px"
+        /></a> <a href="https://mui.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img
+          src="https://github.com/tandpfun/skill-icons/raw/main/icons/MaterialUI-Dark.svg"
+          alt="MateralUI"
+          width="40"
+          height="40"
+          margin="5px"
+        /></a> <a href="https://www.postman.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img
+          src="https://github.com/tandpfun/skill-icons/raw/main/icons/Postman.svg"
+          alt="Postman"
+          width="40"
+          height="40"
+          margin="5px"
         /></a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer" style="text-decoration: none;"><img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
+          src="https://github.com/tandpfun/skill-icons/raw/main/icons/Photoshop.svg"
           alt="photoshop"
           width="40"
           height="40"
           margin="5px"
         /></a></p>
+<br>
 
+![](https://komarev.com/ghpvc/?username=marwahaldujaili&color=brightgreen&style=flat)
+
+<br>
 <br>

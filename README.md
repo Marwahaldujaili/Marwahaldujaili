@@ -90,6 +90,24 @@
           width="40"
           height="40"
           margin="5px"
+        /></a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img
+          src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/2560px-Git-logo.svg.png"
+          alt="Git"
+          width="40"
+          height="40"
+          margin="5px"
+        /></a> <a href="https://github.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img
+          src="https://cdn-icons-png.flaticon.com/512/25/25231.png"
+          alt="Github"
+          width="40"
+          height="40"
+          margin="5px"
+        /></a> <a href="https://www.canva.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img
+          src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Canva_icon_2021.svg/2048px-Canva_icon_2021.svg.png"
+          alt="Canva"
+          width="40"
+          height="40"
+          margin="5px"
         /></a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer" style="text-decoration: none;"><img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
           alt="photoshop"

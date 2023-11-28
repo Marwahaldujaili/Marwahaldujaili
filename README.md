@@ -60,31 +60,37 @@
           width="40"
           height="40"
           margin="5px"
-        /></a><a href="https://nodejs.org" target="_blank" rel="noreferrer" style="text-decoration: none;"><img
+        /></a> <a href="https://nodejs.org" target="_blank" rel="noreferrer" style="text-decoration: none;"><img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
           alt="nodejs"
           width="40"
           height="40"
           margin="15px"
-        /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img
+        /></a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img
           src="https://www.svgrepo.com/show/331488/mongodb.svg"
           alt="mongodb"
           width="40"
           height="40"
           margin="15px"
-        /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img
+        /></a> <a href="https://expressjs.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img
           src="https://www.svgrepo.com/show/330398/express.svg"
           alt="expressjs"
           width="40"
           height="40"
           margin="15px"
-        /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img
+        /></a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img
           src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png"
           alt="figma"
           width="40"
           height="40"
           margin="5px"
-        /></a><a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer" style="text-decoration: none;"><img
+        /></a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img
+          src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg"
+          alt="VScode"
+          width="40"
+          height="40"
+          margin="5px"
+        /></a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer" style="text-decoration: none;"><img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
           alt="photoshop"
           width="40"

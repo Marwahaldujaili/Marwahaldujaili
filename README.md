@@ -29,6 +29,7 @@
           alt="html5"
           width="40"
           height="40"
+          margin="5px"
         /></a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
           alt="css3"

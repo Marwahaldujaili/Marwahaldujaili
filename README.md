@@ -1,22 +1,18 @@
 <h1 align="center">Hi 👋, I'm Marwah Al-Dujaili</h1>
-<h3 align="center">Full-stack Web Developer | MERN Stack Developer with 14+ years experience as Technology Trainer🌟.</h3>
+<h3 align="center">Full-stack Web Developer | MERN Stack Developer with 14+ years experience as Technology Trainer 🌟.</h3>
 
 <br>
 
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=adam-pw&label=Profile%20views&color=0e75b6&style=flat"
-    alt="adam-pw" /> 
-  </p>
+![](https://komarev.com/ghpvc/?username=marwahaldujaili&color=brightgreen&style=flat)
 
 <br>
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
-- 🌱 I’m currently learning Web Development and other programming languages
+- 🌱 Recently completed an intensive one-year training program in full-stack developmen
 
-- 📫 How to reach me **adampithewan@gmail.com**
-
-- ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
+- 📫 How to reach me **marwah@aldujaili.com**
 
 <br>
 

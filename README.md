@@ -13,7 +13,7 @@
 
 - Connect with me: <a href="https://www.linkedin.com/in/marwahaldujaili/" target="_blank"><img align="center"
       src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.png"
-      alt="adam pithewan" width="40" /></a>
+      alt="adam pithewan" width="60" /></a>
 
 <br>
 

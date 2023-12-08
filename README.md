@@ -5,7 +5,7 @@
 
 - 💡 Currently working on <a href="https://github.com/Marwahaldujaili/beyondwork">BeyondWork</a>, a social network meant for employees in a company to interact on a personal level, create meaningful and deeper connections and share non-work related information and experiences.
 
-- 📫 How to reach me **marwah@aldujaili.com**
+- 📫 You can reach me via email **marwah@aldujaili.com**
 
 - 🎯 Connect with me: <a href="https://www.linkedin.com/in/marwahaldujaili/" target="_blank" rel="noreferrer"><img align="center"
       src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.png"

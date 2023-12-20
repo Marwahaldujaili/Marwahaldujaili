@@ -7,6 +7,8 @@
 
 - 📫 You can reach me via email **marwah@aldujaili.com**
 
+- 💻 Check out my portfolio to learn more about me <a href="https://marwah.aldujaili.com/" target="_blank" rel="noreferrer">marwah.aldujaili.com</a>
+
 - 🎯 Connect with me: <a href="https://www.linkedin.com/in/marwahaldujaili/" target="_blank" rel="noreferrer"><img align="center"
       src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.png"
       alt="Marwah Al-Dujaili Linkedin" width="60" /></a>

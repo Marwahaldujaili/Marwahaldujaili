@@ -131,9 +131,3 @@
           height="40"
           margin="5px"
         /></a></p>
-<br>
-
-![](https://komarev.com/ghpvc/?username=marwahaldujaili&color=brightgreen&style=flat)
-
-<br>
-<br>

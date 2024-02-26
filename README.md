@@ -7,7 +7,7 @@
 
 - 💡 Checkout this project I worked on as part of the Final Project of the DCI course: <a href="https://github.com/Marwahaldujaili/beyondwork">BeyondWork</a>, a social network meant for employees in a company to interact on a personal level, create meaningful and deeper connections and share non-work related information and experiences.
 
-- 📫 You can reach me via email **marwah@aldujaili.com**
+- 📫 You can reach me via email at **marwah@aldujaili.com**
 
 - 💻 Check out my portfolio to learn more about me <a href="http://marwah.aldujaili.com/" target="_blank">marwah.aldujaili.com</a>
 

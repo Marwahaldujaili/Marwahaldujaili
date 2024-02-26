@@ -3,7 +3,7 @@
 
 - 🌱 Recently completed an intensive one-year training program in full-stack developmen
 
-- 💡 Currently working on <a href="https://github.com/Marwahaldujaili/beyondwork">BeyondWork</a>, a social network meant for employees in a company to interact on a personal level, create meaningful and deeper connections and share non-work related information and experiences.
+- 💡 Checkout this project I worked on as part of the Final Project of the DCI course: <a href="https://github.com/Marwahaldujaili/beyondwork">BeyondWork</a>, a social network meant for employees in a company to interact on a personal level, create meaningful and deeper connections and share non-work related information and experiences.
 
 - 📫 You can reach me via email **marwah@aldujaili.com**
 
